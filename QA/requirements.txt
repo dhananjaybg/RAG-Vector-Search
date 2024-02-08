@@ -1,0 +1,11 @@
+langchain
+langchain-community
+openai
+langchain-openai
+pypdf
+argparse
+lxml
+pymongo
+requests
+bs4
+tiktoken

@@ -1,0 +1,7 @@
+#RENAME this file from params.py.txt and fill on the variables below
+openai_api_key = 'XFWRGERGQERHQEH'
+
+mongodb_conn_string = 'mongodb+srv://<user_name>:<password>@cluster.c435xrj.mongodb.net/?retryWrites=true&w=majority'
+db_name = "search_db"
+collection_name = "search_col_24"
+index_name = "vector_index_24"

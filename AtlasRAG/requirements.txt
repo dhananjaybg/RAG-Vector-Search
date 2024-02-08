@@ -1,0 +1,15 @@
+langchain>=0.0.231
+langchain-community
+pymongo
+dnspython
+bs4
+openai>=v0.28.1
+langchain-openai
+tiktoken
+requests
+lxml
+argparse
+unstructured
+pypdf
+gradio
+pypdf
